@@ -20,6 +20,12 @@ yarn install
 bun install
 ```
 
+```bash
+# npm2
+npm run build
+
+```
+
 ## Development Server
 
 Start the development server on `http://localhost:3000`:
